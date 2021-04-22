@@ -220,9 +220,9 @@ vertical: body pane on the botton</t>
 <t tx="leo.20200818170535.1"> &lt;section&gt;
          &lt;h2&gt;專題題目介紹&lt;/h2&gt;
             &lt;h3&gt;毛刷自動下料機構 
-            究級升級版&lt;/h3&gt;
+            升級版&lt;/h3&gt;
             &lt;p&gt;
-  因上一版本的自動下料機會卡毛，所以我們又做了一個來應付
+  因上一版本的自動下料機會卡毛，且上一代在大量生產上速度是比較慢的，因此我們針對刮刀進行了改良。
             &lt;/p&gt;
         &lt;/section&gt;
 
@@ -234,17 +234,17 @@ vertical: body pane on the botton</t>
 
 </t>
 <t tx="leo.20200818170725.1">&lt;section&gt;
-    &lt;h2&gt;Slides&lt;/h2&gt;
+    &lt;h2&gt;心得&lt;/h2&gt;
     &lt;p&gt;
-        Not a coder? Not a problem. There's a fully-featured visual editor for authoring these, try it out at &lt;a href="https://slides.com" target="_blank"&gt;https://slides.com&lt;/a&gt;.
+       這次四人一組協同，個人的工作量變少，確實輕鬆許多，但是在討論時卻也有更多的意見需要去整合，在意見分歧時往往需要有人跳出來分析所有意見的優缺點並讓大家選出較好的方法去執行，這方面有時候鰻費時的，不過我認為比stage1時好太多了。 
     &lt;/p&gt;
 &lt;/section&gt;
 
 </t>
 <t tx="leo.20200818170909.1">&lt;section&gt;
-    &lt;h2&gt;Vertical Slides&lt;/h2&gt;
-    &lt;p&gt;Slides can be nested inside of each other.&lt;/p&gt;
-    &lt;p&gt;Use the &lt;em&gt;Space&lt;/em&gt; key to navigate through all slides.&lt;/p&gt;
+    &lt;h2&gt;新舊版本比較&lt;/h2&gt;
+    &lt;p&gt;下列為第一代自動下料機&lt;/p&gt;
+    &lt;p&gt;&lt;img src=https://i.imgur.com/IRHffzl.png width=600 height=400&gt;&lt;/p&gt;
     &lt;br&gt;
     &lt;a href="#" class="navigate-down"&gt;
         &lt;img class="r-frame" style="background: rgba(255,255,255,0.1);" width="178" height="238" data-src="https://static.slid.es/reveal/arrow.png" alt="Down arrow"&gt;
@@ -252,66 +252,29 @@ vertical: body pane on the botton</t>
 &lt;/section&gt;
 </t>
 <t tx="leo.20200818170953.1">&lt;section&gt;
-    &lt;h2&gt;Basement Level 1&lt;/h2&gt;
-    &lt;p&gt;Nested slides are useful for adding additional detail underneath a high level horizontal slide.&lt;/p&gt;
+    &lt;p&gt;此為改良後的自動下料機&lt;/p&gt;
+     &lt;p&gt;&lt;img src=https://i.imgur.com/nyv6Lrg.png width=600 height=400&gt;&lt;/p&gt;
 &lt;/section&gt;
 </t>
 <t tx="leo.20200818171010.1">&lt;section&gt;
-    &lt;h2&gt;Basement Level 2&lt;/h2&gt;
-    &lt;p&gt;That's it, time to go back up.&lt;/p&gt;
+    &lt;h2&gt;運轉方式&lt;/h2&gt;
+    &lt;p&gt;&lt;img src=https://i.imgur.com/wBtlBgT.gif width=600 height=400&gt;&lt;/p&gt;
     &lt;br&gt;
     &lt;a href="#/2"&gt;
         &lt;img class="r-frame" style="background: rgba(255,255,255,0.1); transform: rotate(180deg);" width="178" height="238" data-src="https://static.slid.es/reveal/arrow.png" alt="Up arrow"&gt;
     &lt;/a&gt;
 &lt;/section&gt;</t>
-<t tx="leo.20200818171138.1">&lt;section data-auto-animate&gt;
-    &lt;h2 data-id="code-title"&gt;Pretty Code&lt;/h2&gt;
-    &lt;pre data-id="code-animation"&gt;&lt;code class="hljs" data-trim data-line-numbers&gt;
-        import React, { useState } from 'react';
-
-        function Example() {
-          const [count, setCount] = useState(0);
-
-          return (
-            ...
-          );
-        }
-    &lt;/code&gt;&lt;/pre&gt;
-    &lt;p&gt;Code syntax highlighting courtesy of &lt;a href="https://highlightjs.org/usage/"&gt;highlight.js&lt;/a&gt;.&lt;/p&gt;
+<t tx="leo.20200818171138.1">&lt;section&gt;
+    &lt;h2&gt;參考資料 &lt;/h2&gt;
+    &lt;p&gt;
+    https://www.youtube.com/watch?v=T6PD2vPR8tg &lt;/p&gt;
 &lt;/section&gt;
 
 </t>
-<t tx="leo.20200818171215.1">&lt;section data-auto-animate&gt;
-    &lt;h2 data-id="code-title"&gt;With animations&lt;/h2&gt;
-    &lt;pre data-id="code-animation"&gt;&lt;code class="hljs" data-trim data-line-numbers="|4,8-11|17|22-24"&gt;
-        import React, { useState } from 'react';
+<t tx="leo.20200818171215.1">&lt;section&gt;
 
-        function Example() {
-          const [count, setCount] = useState(0);
+    &lt;h1&gt; 感謝聆聽&lt;/h1&gt;
 
-          return (
-            &amp;lt;div&amp;gt;
-              &amp;lt;p&amp;gt;You clicked {count} times&amp;lt;/p&amp;gt;
-              &amp;lt;button onClick={() =&amp;gt; setCount(count + 1)}&amp;gt;
-                Click me
-              &amp;lt;/button&amp;gt;
-            &amp;lt;/div&amp;gt;
-          );
-        }
-
-        function SecondExample() {
-          const [count, setCount] = useState(0);
-
-          return (
-            &amp;lt;div&amp;gt;
-              &amp;lt;p&amp;gt;You clicked {count} times&amp;lt;/p&amp;gt;
-              &amp;lt;button onClick={() =&amp;gt; setCount(count + 1)}&amp;gt;
-                Click me
-              &amp;lt;/button&amp;gt;
-            &amp;lt;/div&amp;gt;
-          );
-        }
-    &lt;/code&gt;&lt;/pre&gt;
 &lt;/section&gt;
 
 </t>
