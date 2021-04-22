@@ -208,22 +208,23 @@ vertical: body pane on the botton</t>
     @others
 &lt;/div&gt;</t>
 <t tx="leo.20200818170328.1">&lt;section&gt;
-    &lt;a href="https://revealjs.com"&gt;
-        &lt;img src="https://static.slid.es/reveal/logo-v1/reveal-white-text.svg" alt="reveal.js logo" style="height: 180px; margin: 0 auto 4rem auto; background: transparent;" class="demo-logo"&gt;
+    &lt;h1&gt;協同產品設計實習&lt;/h1&gt;
     &lt;/a&gt;
-    &lt;h3&gt;幹幹幹&lt;/h3&gt;
+    &lt;h3&gt;STAGE2-BG4&lt;/h3&gt;
     &lt;p&gt;
-        &lt;small&gt;Created by &lt;a href="http://hakim.se"&gt;Hakim El Hattab&lt;/a&gt; and &lt;a href="https://github.com/hakimel/reveal.js/graphs/contributors"&gt;contributors&lt;/a&gt;&lt;/small&gt;
-    &lt;/p&gt;
+          &lt;small&gt;小組成員 :&lt;a href="https://github.com/s40723140/cd2021"&gt;40723140&lt;/a&gt;、 &lt;a href="https://github.com/s40723128/cd2021"&gt;40723128&lt;/a&gt;、&lt;a href="https://github.com/s40723215/cd2021"&gt;40723215&lt;/a&gt;、&lt;a href="https://github.com/s40723135/cd2021"&gt;40723135&lt;/a&gt;&lt;/small&gt;
+            &lt;/p&gt;
 &lt;/section&gt;
 
 </t>
-<t tx="leo.20200818170535.1">&lt;section&gt;
-    &lt;h2&gt;Hello There&lt;/h2&gt;
-    &lt;p&gt;
-        reveal.js enables you to create beautiful interactive slide decks using HTML. This presentation will show you examples of what it can do.
-    &lt;/p&gt;
-&lt;/section&gt;
+<t tx="leo.20200818170535.1"> &lt;section&gt;
+         &lt;h2&gt;專題題目介紹&lt;/h2&gt;
+            &lt;h3&gt;毛刷自動下料機構 
+            究級升級版&lt;/h3&gt;
+            &lt;p&gt;
+  因上一版本的自動下料機會卡毛，所以我們又做了一個來應付
+            &lt;/p&gt;
+        &lt;/section&gt;
 
 </t>
 <t tx="leo.20200818170636.1">&lt;!-- Example of nested vertical slides --&gt;
