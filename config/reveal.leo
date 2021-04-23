@@ -243,7 +243,7 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20200818170909.1">&lt;section&gt;
     &lt;h2&gt;新舊版本比較&lt;/h2&gt;
-    &lt;p&gt;下列為第一代自動下料機&lt;/p&gt;
+    &lt;p&gt;此為第一代自動下料機&lt;/p&gt;
     &lt;p&gt;&lt;img src=https://i.imgur.com/IRHffzl.png width=600 height=400&gt;&lt;/p&gt;
     &lt;br&gt;
     &lt;a href="#" class="navigate-down"&gt;
